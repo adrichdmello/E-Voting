@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Update-7 / Overview             -->
+<!--  Date:    January 15, 2007                            -->
+<!--  Author:  Wolfgang                                    -->
+<!--  License: Fully open source without restrictions.     -->
+<!--           Please keep footer credits with a link to   -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!     -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout4_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout4_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/favicon.ico" />
+  <title>E-Voting System : Registration</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+   <!-- For alternative headers START PASTE here -->
+
+    <!-- A. HEADER -->      
+    <div class="header">
+      
+      <!-- A.1 HEADER TOP -->
+      <div class="header-top">
+        
+        <!-- Sitelogo and sitename -->
+        <a class="sitelogo" href="#" title="Go to Start page"></a>
+        <div class="sitename">
+          <h1><a href="index.html" title="Go to Start page">E-Voting System</a></h1>
+          <h2>Vote from anywhere, 24x7 !!</h2>
+        </div>
+    
+        <!-- Navigation Level 0 -->
+       		
+
+        <!-- Navigation Level 1 -->
+        <div class="nav1">
+          <ul>
+            <li><a href="#" title="Go to Start page">Home</a></li>
+            <li><a href="#" title="Get to know who we are">About</a></li>
+            <li><a href="#" title="Get in touch with us">Contact</a></li>
+          </ul>
+        </div>              
+      </div>
+      
+      <!-- A.2 HEADER MIDDLE -->
+      <div class="header-middle">    
+   
+        <!-- Site message -->
+        <div class="sitemessage">
+          <h1>EASY &bull; FLEXIBLE &bull; ROBUST</h1>
+          <h2>Conduct elections effortlessly<br/></h2>
+          <h3><a href="#">&rsaquo;&rsaquo;&nbsp;More details</a></h3>
+        </div>        
+      </div>
+      
+      <!-- A.3 HEADER BOTTOM -->
+      <div class="header-bottom">
+      
+        <!-- Navigation Level 2 (Drop-down menus) -->
+        <div class="nav2">
+	
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="index.html">Overview</a></li>
+          </ul>
+          
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="#">Page Layouts<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+                  <li><a href="layout1.html">Layout-1 (1-col)</a></li>
+                  <li><a href="layout2.html">Layout-2 (2-col)</a></li>
+                  <li><a href="layout3.html">Layout-3 (2-col)</a></li>
+                  <li><a href="layout4.html">Layout-4 (3-col)</a></li>
+                  <li><a href="layout5.html">Layout-5 (3-col)</a></li>                                    
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>          
+
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="#">Header Layouts<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+                  <li><a href="header1.html">Header-1 (T+M+B)</a></li>
+                  <li><a href="header2.html">Header-2 (T+M)</a></li>
+                  <li><a href="header3.html">Header-3 (T+B)</a></li>
+                  <li><a href="header4.html">Header-4 (M+B)</a></li>
+                  <li><a href="header5.html">Header-5 (T)</a></li>
+                  <li><a href="header6.html">Header-6 (M)</a></li>
+                  <li><a href="header7.html">Header-7 (B)</a></li>
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>          
+        </div>
+	  </div>
+
+      <!-- A.4 HEADER BREADCRUMBS -->
+
+      <!-- Breadcrumbs -->
+      <div class="header-breadcrumbs">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li>Register</li>
+        </ul>
+
+        <!-- Search form -->                  
+        <div class="searchform">
+          <form action="#" method="get" class="form">
+            <fieldset>
+              <input value=" Search..." name="field" class="field" />
+              <input type="submit" value="GO!" name="button" class="button" />
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- For alternative headers END PASTE here -->
+
+    <!-- B. MAIN -->
+    <div class="main">
+ 
+      <!-- B.1 MAIN NAVIGATION -->
+      <div class="main-navigation">
+
+        <!-- Navigation Level 3 -->
+        <div class="round-border-topright"></div>
+        <h1 class="first">Navigation</h1>
+
+        <!-- Navigation with grid style -->
+        <dl class="nav3-grid">
+          <dt><a href="#">Link 11</a></dt>
+          <dt><a href="#">Link 12</a></dt>
+            <dd><a href="#">Link 121</a></dd>
+            <dd><a href="#">Link 122</a></dd>
+            <dd><a href="#">Link 123</a></dd>		
+          <dt><a href="#">Link 13</a></dt>
+          <dt><a href="#">Link 14</a></dt>
+          <dt><a href="#">Link 15</a></dt>
+        </dl>                        
+
+        <!-- Template infos --> 
+           <!--            
+        <h1>Multiflex Series</h1>
+        <p>A design series for those who want a template that can be used for almost any situation. It is recommended to have at least beginners knowledge of XHTML/CSS to work with this template in a satisfying way.</p>
+        <h3>Multiflex-1</h3>
+        <p>Released: 15.05.2006<br />OK for operational use, but has heavy code.<br /><a href="http://www.1-2-3-4.info/webtemplates/multiflex1/">Download latest update</a></p>
+        <h3>Multiflex-2</h3>
+        <p>Released: 08.06.2006<br />OK for operational use, but has heavy code.<br /><a href="http://www.1-2-3-4.info/webtemplates/multiflex2/">Download latest update</a></p>
+        <h3>Multiflex-3</h3>
+        <p>Released: 25.11.2006<br />BEST for operational use, with light code and 97% browser compatibility.<br /><a href="http://www.1-2-3-4.info/webtemplates/multiflex3/">Download latest update</a></p>
+        <h3>Multiflex-4</h3>
+        <p>Plan: Second Quarter 2007<br />Same design as Multiflex-3, but with a liquid layout. But it is still uncertain if this version will be developed due to my limited time.<br /><a href="http://www.1-2-3-4.info/webtemplates/">Check if available!</a></p> 
+        <h1>Easyflex Series</h1>
+        <p>A new designs series that is simple, easy and fresh, and is ideal for those who have no or very little experience of XHTML/CSS and prefer to edit their web contents in FrontPage, Dreamweaver and other similar editors.</p>
+        <p>Plan: Third Quarter 2007<br /><a href="http://www.1-2-3-4.info/webtemplates/">Check if available!</a></p>
+        -->
+      </div>
+ 
+      <!-- B.2 MAIN CONTENT -->
+      <div class="main-content">
+        
+        <!-- Pagetitle -->
+        <h1 class="pagetitle">Register for E-Voting</h1>
+		
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+        <form method="post" action="Registration">
+        <p>Company Name : <input type="text" name="cName"/></p>
+          <p>Company Address : <input type="text" name="cAddress"/></p>
+          <p>Company Website : <input type="text" name="cWebsite"/></p>
+          <p>Company E-Mail : <input type="text" name="cEmail"/></p>
+           <p>Password : <input type="password" name="pass"/></p>
+           <p>Confirm Password : <input type="password" name="cPass"/></p>
+            <p><input type="submit" value="Submit"/><input type="reset" value="Reset"/></p>
+            </form> 
+        </div>
+        <hr class="clear-contentunit" />          
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">        
+          
+        </div>          
+        <hr class="clear-contentunit" />          
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          
+        </div>
+        <hr class="clear-contentunit" />                    
+                
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          
+        </div>
+        <hr class="clear-contentunit" />                                                    
+        
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+         
+        </div>
+        <hr class="clear-contentunit" />
+        
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+        </div>
+        <hr class="clear-contentunit" />                                                              
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          
+        </div>  
+                                         
+      </div>
+                
+      <!-- B.3 SUBCONTENT -->
+      <div class="main-subcontent">
+
+        <!-- Subcontent unit -->
+        <div class="subcontent-unit-border">
+          <div class="round-border-topleft"></div><div class="round-border-topright"></div>
+          <h1>Login</h1>
+          <form>
+          	<p>Username : <input type="text"/></p>
+	        <p>Password : <input type="password"/></p>
+	        <p><input type="submit" value="Login" title="Login" style="width:60px;height:25px;"/></p>
+	        <p><a href="register.html">Sign Up !!</a></p>
+	        <p><a href="">Forgot Password ?</a></p>
+          </form>
+        </div>
+
+        <!-- Subcontent unit -->
+        <div class="subcontent-unit-border">
+          <div class="round-border-topleft"></div><div class="round-border-topright"></div>
+          <h1>Voter Login</h1>
+          <p>Enter your Voter Code :</p>   
+          <p><input type="text"/></p>
+          <p><input type="submit" value="Submit" title="Submit" style="width:60px;height:25px;"/></p>
+        </div>
+
+        <!-- Subcontent unit -->
+        <div class="subcontent-unit-border-orange">
+          <div class="round-border-topleft"></div><div class="round-border-topright"></div>
+          <h1 class="orange">About Us</h1>
+          </div>
+
+        <!-- Subcontent unit -->
+        <div class="subcontent-unit-border-green">
+          <div class="round-border-topleft"></div>
+          <div class="round-border-topright"></div>
+          	<h1 class="green">Contact</h1>
+          </div>
+      </div>
+    </div>
+      
+    <!-- C. FOOTER AREA -->      
+
+    <div class="footer">
+      <p>Copyright &copy; 2012 MCA Batch 2010 | All Rights Reserved</p>
+    <!--  <p class="credits">Design by <a href="http://www.1-2-3-4.info/" title="Designer Homepage">Wolfgang</a>  | Modified by <a href="#" title="Modifyer Homepage">Your Name</a> | Powered by <a href="#" title="CMS Homepage">Your CMS</a> | <a href="http://validator.w3.org/check?uri=referer" title="Validate XHTML code">XHTML 1.0</a> | <a href="http://jigsaw.w3.org/css-validator/" title="Validate CSS code">CSS 2.0</a></p>--> 
+    </div>      
+  </div> 
+  
+</body>
+</html>
+
+
+
